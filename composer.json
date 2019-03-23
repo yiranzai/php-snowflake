@@ -1,7 +1,7 @@
 {
     "name": "yiranzai/snowflake",
     "type": "library",
-    "description": "php SnowFlake",
+    "description": "This package to generate 64 bit identifier, use snowflakes from Twitter.",
     "keywords": [
         "yiranzai",
         "snowflake"

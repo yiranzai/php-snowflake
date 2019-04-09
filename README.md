@@ -1,9 +1,9 @@
 # snowflake
 
-[ENGLISH](README.md) | [中文](README_ZH_CN.md)
+[ENGLISH](README.md) | [中文](docs/README_ZH_CN.md)
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
-[![Software License][ico-license]](LICENSE.md)
+[![Software License][ico-license]](docs/LICENSE.md)
 [![Build Status][ico-travis]][link-travis]
 [![Coverage Status][ico-scrutinizer]][link-scrutinizer]
 [![Quality Score][ico-code-quality]][link-code-quality]
@@ -40,7 +40,7 @@ echo $node->workerID; // 2
 
 ## Change log
 
-Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
+Please see [CHANGELOG](docs/CHANGELOG.md) for more information on what has changed recently.
 
 ## Testing
 
@@ -50,7 +50,7 @@ $ composer test
 
 ## Contributing
 
-Please see [CONTRIBUTING](CONTRIBUTING.md) and [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md) for details.
+Please see [CONTRIBUTING](docs/CONTRIBUTING.md) and [CODE_OF_CONDUCT](docs/CODE_OF_CONDUCT.md) for details.
 
 ## Security
 
@@ -63,7 +63,7 @@ If you discover any security related issues, please email wuqingdzx@gmail.com in
 
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+The MIT License (MIT). Please see [License File](docs/LICENSE.md) for more information.
 
 [ico-version]: https://img.shields.io/packagist/v/yiranzai/snowflake.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square

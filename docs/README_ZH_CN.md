@@ -31,8 +31,8 @@ $ composer require yiranzai/snowflake
 ## 使用
 
 ```php
-$id = \Yiranzai\Snowflake\SnowFlake::next($dataCenterId = 1, $workerId = 2);
-$node = \Yiranzai\Snowflake\SnowFlake::analysis($id);
+$id = \Yiranzai\SnowFlake\SnowFlake::next($dataCenterId = 1, $workerId = 2);
+$node = \Yiranzai\SnowFlake\SnowFlake::analysis($id);
 
 echo $node->dataCenterID; // 1
 echo $node->workerID; // 2

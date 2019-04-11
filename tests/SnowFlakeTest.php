@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace Yiranzai\Snowflake\Tests;
 
 use PHPUnit\Framework\TestCase;
-use Yiranzai\Snowflake\Node;
+use Yiranzai\SnowFlake\Node;
 use Yiranzai\SnowFlake\SnowFlake;
 
 /**

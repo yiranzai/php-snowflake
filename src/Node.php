@@ -6,7 +6,7 @@
  * Time: 下午4:47
  */
 
-namespace Yiranzai\Snowflake;
+namespace Yiranzai\SnowFlake;
 
 class Node
 {
